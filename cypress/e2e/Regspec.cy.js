@@ -19,7 +19,7 @@ describe("Registration Test", () => {
     const Password1 = "Peacejoy*1";
     const ConfirmPassword1 = "Peacejoy*1";
     const Month = "January";
-    const Day = "1";
+    const Day = "2";
     const Year = "2015";
     const Username = "Israel";
 
