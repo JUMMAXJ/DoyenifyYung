@@ -1,0 +1,8 @@
+ { 
+ "validEmail": "beeneing1944@armyspy.com",
+ "validPassword": "Joy12345",
+ "invalidEmail": "Peace@.com",
+ "invalidPassword":"Joy12",
+ "freshEmail":"Jummy@gmail.com",
+ "freshPassword":"123"
+}
