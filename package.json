@@ -1,0 +1,19 @@
+{
+  "name": "doyenifyyung",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "test:open": "npx cypress run --e2e --browser electron",
+    "test:doyen": "npx cypress run --browser chrome",
+    "test:edge": "npx cypress run --browser edge",
+    "test:spec": "npx cypress run --spec 'cypress/e2e/e2e/table.cy.js'",
+    "test:Spces": "npx cypress run --spec 'cypress/e2e/e2e/*'"
+  },
+  "author": "OLUWATOYIN AYANKUNLE",
+  "license": "ISC",
+  "description": "DOYENIFY ACADEMY HANDS-ON EXPERIENCE",
+  "dependencies": {
+    "cypress": "^15.9.0"
+  }
+}
